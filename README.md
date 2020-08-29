@@ -6,7 +6,7 @@
 
 >> Utilized boxplots and line graphs for visualization of the four drugs effect on tumor volume over the course of 45 days.
 
->> The top three final observations of the study are under the heading of the Jupyter notebook.
+>> The top three final observations of the study are outlined under the heading of the Jupyter notebook.
 
 
 
